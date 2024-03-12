@@ -17,7 +17,7 @@ This is part one of a tutorial that outlines the implementation of on-premises A
 - Windows Server 2022
 - Windows 10 
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>Deployment and Configuration Steps</h2>
 
 - Step 1: Create Subscription and Resource Group
 - Step 2: Choose Virtual Machines  
