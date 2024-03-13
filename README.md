@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>On-premises Active Directory Deployed in Azure</h1>
+<h1>On-premises Active Directory Deployed in Azure (Part One)</h1>
 This is part one of a tutorial that outlines the implementation of on-premises Active Directory within Azure Virtual Machines. In this segment, I'll start by creating a subscription account and two virtual machines in Azure that I'll be using for my lab. One will be Windows Server 2022, and the other will be Windows 10. <br />
 
 
